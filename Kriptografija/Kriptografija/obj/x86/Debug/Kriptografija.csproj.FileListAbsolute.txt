@@ -1,0 +1,7 @@
+C:\Users\aleks\AppData\Local\Temporary Projects\Kriptografija\bin\Debug\Kriptografija.exe
+C:\Users\aleks\AppData\Local\Temporary Projects\Kriptografija\bin\Debug\Kriptografija.pdb
+C:\Users\aleks\AppData\Local\Temporary Projects\Kriptografija\obj\x86\Debug\Kriptografija.Form1.resources
+C:\Users\aleks\AppData\Local\Temporary Projects\Kriptografija\obj\x86\Debug\Kriptografija.Properties.Resources.resources
+C:\Users\aleks\AppData\Local\Temporary Projects\Kriptografija\obj\x86\Debug\Kriptografija.csproj.GenerateResource.Cache
+C:\Users\aleks\AppData\Local\Temporary Projects\Kriptografija\obj\x86\Debug\Kriptografija.exe
+C:\Users\aleks\AppData\Local\Temporary Projects\Kriptografija\obj\x86\Debug\Kriptografija.pdb
